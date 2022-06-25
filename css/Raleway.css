@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Raleway';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Raleway Light Italic'), local('Raleway-LightItalic'), url(fonts/1Ptpg8zYS_SKggPNyCgw5qN_AtCb.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Raleway Italic'), local('Raleway-Italic'), url(fonts/1Ptsg8zYS_SKggPNyCg4TYFq.woff2) format('woff2');
+}
