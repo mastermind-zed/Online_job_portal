@@ -450,7 +450,6 @@ $page = 1;
    <a href="#"><i class="ion-ios-arrow-up"></i></a>
 </div>
 
-
 <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
 <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
 <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
