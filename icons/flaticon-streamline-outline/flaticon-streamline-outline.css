@@ -1,0 +1,130 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 19/02/2016 14:50
+  	*/
+
+@font-face {
+  font-family: Flaticon Streamline Outline;
+  src: url("Flaticon-streamline-outline.eot");
+  src: url("Flaticon-streamline-outlined41d.eot?#iefix") format("embedded-opentype"),
+       url("Flaticon-streamline-outline.woff") format("woff"),
+       url("Flaticon-streamline-outline.ttf") format("truetype"),
+       url("Flaticon-streamline-outline.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: Flaticon Streamline Outline;
+    src: url("Flaticon-streamline-outline.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-streamline-outline-"]:before, [class*=" flaticon-streamline-outline-"]:before,
+[class^="flaticon-streamline-outline-"]:after, [class*=" flaticon-streamline-outline-"]:after {   
+  font-family: Flaticon Streamline Outline;
+	font-style: normal;
+	font-weight: normal;
+}
+
+.flaticon-streamline-outline-agenda:before { content: "\f100"; }
+.flaticon-streamline-outline-backpack:before { content: "\f101"; }
+.flaticon-streamline-outline-bomb:before { content: "\f102"; }
+.flaticon-streamline-outline-book:before { content: "\f103"; }
+.flaticon-streamline-outline-briefcase:before { content: "\f104"; }
+.flaticon-streamline-outline-browser:before { content: "\f105"; }
+.flaticon-streamline-outline-charlie-chaplin:before { content: "\f106"; }
+.flaticon-streamline-outline-chef-hat:before { content: "\f107"; }
+.flaticon-streamline-outline-clock:before { content: "\f108"; }
+.flaticon-streamline-outline-cocktail:before { content: "\f109"; }
+.flaticon-streamline-outline-coffee:before { content: "\f10a"; }
+.flaticon-streamline-outline-coffee-machine:before { content: "\f10b"; }
+.flaticon-streamline-outline-cog:before { content: "\f10c"; }
+.flaticon-streamline-outline-computer:before { content: "\f10d"; }
+.flaticon-streamline-outline-computer-screen:before { content: "\f10e"; }
+.flaticon-streamline-outline-computer-screen-1:before { content: "\f10f"; }
+.flaticon-streamline-outline-computer-screen-2:before { content: "\f110"; }
+.flaticon-streamline-outline-crop:before { content: "\f111"; }
+.flaticon-streamline-outline-crown:before { content: "\f112"; }
+.flaticon-streamline-outline-designer-cup:before { content: "\f113"; }
+.flaticon-streamline-outline-diving-gear:before { content: "\f114"; }
+.flaticon-streamline-outline-download-content:before { content: "\f115"; }
+.flaticon-streamline-outline-envelope:before { content: "\f116"; }
+.flaticon-streamline-outline-eyedropper:before { content: "\f117"; }
+.flaticon-streamline-outline-fork-kinfe:before { content: "\f118"; }
+.flaticon-streamline-outline-forklift:before { content: "\f119"; }
+.flaticon-streamline-outline-fountain-pen-head:before { content: "\f11a"; }
+.flaticon-streamline-outline-fountain-pen-head-1:before { content: "\f11b"; }
+.flaticon-streamline-outline-gauge:before { content: "\f11c"; }
+.flaticon-streamline-outline-globe:before { content: "\f11d"; }
+.flaticon-streamline-outline-grid:before { content: "\f11e"; }
+.flaticon-streamline-outline-griller:before { content: "\f11f"; }
+.flaticon-streamline-outline-handbag:before { content: "\f120"; }
+.flaticon-streamline-outline-headphones:before { content: "\f121"; }
+.flaticon-streamline-outline-heart:before { content: "\f122"; }
+.flaticon-streamline-outline-home:before { content: "\f123"; }
+.flaticon-streamline-outline-hot-dog:before { content: "\f124"; }
+.flaticon-streamline-outline-ice-cream:before { content: "\f125"; }
+.flaticon-streamline-outline-image:before { content: "\f126"; }
+.flaticon-streamline-outline-images:before { content: "\f127"; }
+.flaticon-streamline-outline-iphone:before { content: "\f128"; }
+.flaticon-streamline-outline-ipod:before { content: "\f129"; }
+.flaticon-streamline-outline-laptop:before { content: "\f12a"; }
+.flaticon-streamline-outline-laptop-1:before { content: "\f12b"; }
+.flaticon-streamline-outline-layers:before { content: "\f12c"; }
+.flaticon-streamline-outline-link:before { content: "\f12d"; }
+.flaticon-streamline-outline-lock:before { content: "\f12e"; }
+.flaticon-streamline-outline-magic-wand:before { content: "\f12f"; }
+.flaticon-streamline-outline-magnet:before { content: "\f130"; }
+.flaticon-streamline-outline-mail:before { content: "\f131"; }
+.flaticon-streamline-outline-microphone:before { content: "\f132"; }
+.flaticon-streamline-outline-monocle:before { content: "\f133"; }
+.flaticon-streamline-outline-mp3-player:before { content: "\f134"; }
+.flaticon-streamline-outline-music-note:before { content: "\f135"; }
+.flaticon-streamline-outline-network:before { content: "\f136"; }
+.flaticon-streamline-outline-paint-brush:before { content: "\f137"; }
+.flaticon-streamline-outline-paint-bucket:before { content: "\f138"; }
+.flaticon-streamline-outline-paint-palette:before { content: "\f139"; }
+.flaticon-streamline-outline-paint-roller:before { content: "\f13a"; }
+.flaticon-streamline-outline-pen:before { content: "\f13b"; }
+.flaticon-streamline-outline-pen-fountain:before { content: "\f13c"; }
+.flaticon-streamline-outline-pencil-and-ruler:before { content: "\f13d"; }
+.flaticon-streamline-outline-photo-camera:before { content: "\f13e"; }
+.flaticon-streamline-outline-picture-frame:before { content: "\f13f"; }
+.flaticon-streamline-outline-placeholder:before { content: "\f140"; }
+.flaticon-streamline-outline-polaroid-camera:before { content: "\f141"; }
+.flaticon-streamline-outline-pot:before { content: "\f142"; }
+.flaticon-streamline-outline-quill-ink:before { content: "\f143"; }
+.flaticon-streamline-outline-refresh:before { content: "\f144"; }
+.flaticon-streamline-outline-remote-control:before { content: "\f145"; }
+.flaticon-streamline-outline-remote-control-and-screen:before { content: "\f146"; }
+.flaticon-streamline-outline-script:before { content: "\f147"; }
+.flaticon-streamline-outline-server:before { content: "\f148"; }
+.flaticon-streamline-outline-settings:before { content: "\f149"; }
+.flaticon-streamline-outline-shield-with-cross:before { content: "\f14a"; }
+.flaticon-streamline-outline-shopping-cart:before { content: "\f14b"; }
+.flaticon-streamline-outline-shopping-cart-1:before { content: "\f14c"; }
+.flaticon-streamline-outline-skull:before { content: "\f14d"; }
+.flaticon-streamline-outline-smiley:before { content: "\f14e"; }
+.flaticon-streamline-outline-sneakers:before { content: "\f14f"; }
+.flaticon-streamline-outline-sofa:before { content: "\f150"; }
+.flaticon-streamline-outline-speech-bubble:before { content: "\f151"; }
+.flaticon-streamline-outline-speech-bubble-1:before { content: "\f152"; }
+.flaticon-streamline-outline-stamper:before { content: "\f153"; }
+.flaticon-streamline-outline-syringe:before { content: "\f154"; }
+.flaticon-streamline-outline-tablet:before { content: "\f155"; }
+.flaticon-streamline-outline-target:before { content: "\f156"; }
+.flaticon-streamline-outline-teapot:before { content: "\f157"; }
+.flaticon-streamline-outline-trash-can:before { content: "\f158"; }
+.flaticon-streamline-outline-umbrella:before { content: "\f159"; }
+.flaticon-streamline-outline-unlocked:before { content: "\f15a"; }
+.flaticon-streamline-outline-user:before { content: "\f15b"; }
+.flaticon-streamline-outline-user-chat:before { content: "\f15c"; }
+.flaticon-streamline-outline-user-location:before { content: "\f15d"; }
+.flaticon-streamline-outline-vector:before { content: "\f15e"; }
+.flaticon-streamline-outline-video-camera:before { content: "\f15f"; }
+.flaticon-streamline-outline-walkman:before { content: "\f160"; }
+.flaticon-streamline-outline-woofer:before { content: "\f161"; }
+.flaticon-streamline-outline-wrenches:before { content: "\f162"; }
+.flaticon-streamline-outline-write:before { content: "\f163"; }
