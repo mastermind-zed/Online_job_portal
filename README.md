@@ -121,4 +121,4 @@ Hiring an experienced job portal app development company for your organization c
 
 Conclusion
 
-A job portal is a website or a mobile application where the companies post their job vacancies. And the job-seeking applicants associated with the portal are allowed to apply for that job.
+A job portal is a website or a mobile application where the companies post their job vacancies.
