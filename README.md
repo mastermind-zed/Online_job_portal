@@ -125,4 +125,3 @@ Conclusion
 
 A job portal is a website or a mobile application where the companies post their job vacancies. And the job-seeking applicants associated with the portal are allowed to apply for that job.
 
-The users are also allowed to search the job of their convenience with the help of various filter options present in the portal. Moreover, the outbreak of the Covid-19 pandemic gives a substantial boost to the user base of this portal. So, if you want to start your recruiting company, then a responsive and dynamic job portal can ensure your success.
