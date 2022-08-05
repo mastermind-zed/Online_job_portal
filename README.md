@@ -1,7 +1,5 @@
 # Online Job portal.
 
-
-
 A job portal is an online place where various companies post their job vacancies so that the associated users can apply for them. These portals are very useful for job seekers and help them to choose jobs of their convictions. Portals like Indeed, LinkedIn, Monster.com, and Naukri.com are some of the successful job searching portals in the market.
 
 Nowadays to ensure the scalability of your job portal, you have to provide a responsive and informative website to your users. There are many reliable web development services available in the market, which ensures the interactive UI/UX. Once you create the perfect website, you will be able to provide a better quality recruitment service to your users. And also increase your brand value in this competitive market.
