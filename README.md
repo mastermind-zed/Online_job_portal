@@ -71,11 +71,6 @@ When it comes to the online job portal, it is one of the most important jobs see
 2. Easy Job Seeking and Browsing Process
 
 An online job portal helps both the recruiting company as well the job-seeking applications, to fulfil what they want.  As a job seeker, you can visit the job portals to find the available jobs on the various companies. On the other hand, as the recruiting company, you can visit the job portals to get a list of all the deserving candidates.
-
-
-
- 
-
 A better quality of job portal app development will always help the recruiting companies to fulfill their vacancies effectively in less time. As they can provide you with a better quality of the job-seeking website that can increase your market value.
 
 3. Better Information On Different HR Policies
