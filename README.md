@@ -118,5 +118,3 @@ Whereas, maintaining the effectiveness of the hiring process is equally importan
 You should maintain efficient marketing strategies in order to increase your user base. As a job portal owner, you have to deal with a huge amount of candidate data. You just have to choose the right bulk messing and emailing campaigns to make the users interested in your job portal.
 
 Hiring an experienced job portal app development company for your organization can help you to implement innovative marketing insights for better outcomes.
-
-Conclusion
